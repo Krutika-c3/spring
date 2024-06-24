@@ -19,7 +19,7 @@ public class App {
 
             System.out.println(context.getBean("age"));
 
-            System.out.println(context.getBean("person"));
+            System.out.println(context.getBean("course"));
 
             System.out.println(context.getBean("person2MethodCall"));
 
